@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Efraim Canilang</h1>
 <h3 align="center">A passionate Android Developer from Philippines 🇵🇭</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/cover.jpg" width="400" height="240" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/cover.jpg" width="600" height="370" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notefraim&label=Profile%20views&color=0e75b6&style=flat" alt="notefraim" /> </p>
 
@@ -10,6 +10,36 @@
 - 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **efraimcanilang@gmail.com**
+
+<h3 align="left">Featured Projects:</h3>
+
+<b>My Expenses</b> is a budget planner app that helps you manage your finances and expenses.
+
+<img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_banner.png" width="365" height="180">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_1.png" width="100" height="200">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_2.png" width="100" height="200">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_3.png" width="100" height="200">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_4.png" width="100" height="200">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_5.png" width="100" height="200">
+</div>
+
+<br>
+
+<b>PassCon: Your Secure Password Companion</b>
+
+PassCon is your all-in-one solution for generating, saving, and managing secure passwords. Say goodbye to weak and easily guessable passwords, and hello to robust, unique, and encrypted passcodes. With PassCon, you can effortlessly keep your login information safe and organized.
+
+<img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_banner.png" width="365" height="180">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_1.jpg" width="100" height="200">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_2.jpg" width="100" height="200">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_3.jpg" width="100" height="200">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_4.jpg" width="100" height="200">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_5.jpg" width="100" height="200">
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
