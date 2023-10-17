@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Efraim Canilang</h1>
 <h3 align="center">A passionate Android Developer from Philippines 🇵🇭</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/cover.jpg" width="600" height="350" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/cover.jpg" width="600" height="390" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notefraim&label=Profile%20views&color=0e75b6&style=flat" alt="notefraim" /> </p>
 
