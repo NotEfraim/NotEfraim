@@ -36,7 +36,7 @@ I am an experienced Android developer with a strong background in building a div
 a budget planner app that helps you manage your finances and expenses.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_banner.png" width="350" height="200">
+<img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_banner.png" width="515" height="250">
 <br>
 <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_1.png" width="100" height="200">
 <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_2.png" width="100" height="200">
@@ -53,7 +53,7 @@ a budget planner app that helps you manage your finances and expenses.
 PassCon is your all-in-one solution for generating, saving, and managing secure passwords. Say goodbye to weak and easily guessable passwords, and hello to robust, unique, and encrypted passcodes. With PassCon, you can effortlessly keep your login information safe and organized.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_banner.png" width="365" height="200">
+  <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_banner.png" width="515" height="250">
 <br>
   <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_1.jpg" width="100" height="200">
   <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_2.jpg" width="100" height="200">
