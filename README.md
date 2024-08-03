@@ -36,7 +36,8 @@ I am an experienced Android developer with a strong background in building a div
 a budget planner app that helps you manage your finances and expenses.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_banner.png" width="365" height="200">
+<img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_banner.png" width="350" height="200">
+<br>
 <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_1.png" width="100" height="200">
 <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_2.png" width="100" height="200">
 <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/my_expenses_3.png" width="100" height="200">
@@ -53,6 +54,7 @@ PassCon is your all-in-one solution for generating, saving, and managing secure 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_banner.png" width="365" height="200">
+<br>
   <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_1.jpg" width="100" height="200">
   <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_2.jpg" width="100" height="200">
   <img src="https://raw.githubusercontent.com/NotEfraim/Repository_Images/main/passcon_3.jpg" width="100" height="200">
